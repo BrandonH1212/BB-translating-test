@@ -2,13 +2,14 @@
 // @name         Image Translator
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Automatically translate large images on websites
+// @description  Automatically translate  images on websites
 // @author       You
 // @match        *://*/*
 // @grant        GM.xmlHttpRequest
 // @grant        GM_xmlhttpRequest
 // @grant        unsafeWindow
 // @connect      localhost
+// @downloadURL https://raw.githubusercontent.com/BrandonH1212/BB-translating-test/main/image-translator.js
 // ==/UserScript==
 
 (function() {
